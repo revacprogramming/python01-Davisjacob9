@@ -13,4 +13,4 @@ while True:
 largest=max(b)
 smallest=min(b)
 print("Maximum", largest)
-print("Minimum",smallest)
+print("Minimum",smallest) 
